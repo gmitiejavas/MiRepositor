@@ -1,5 +1,5 @@
 ---
-ietf-interface:interface:
+ ietf-interface:interface:
   name: GigabitEthernet2
   description: Wide Area Network
   enable: true
